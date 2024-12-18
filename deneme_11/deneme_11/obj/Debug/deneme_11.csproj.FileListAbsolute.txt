@@ -1,0 +1,7 @@
+C:\Users\Kerim\source\repos\deneme_11\deneme_11\bin\Debug\deneme_11.exe.config
+C:\Users\Kerim\source\repos\deneme_11\deneme_11\bin\Debug\deneme_11.exe
+C:\Users\Kerim\source\repos\deneme_11\deneme_11\bin\Debug\deneme_11.pdb
+C:\Users\Kerim\source\repos\deneme_11\deneme_11\obj\Debug\deneme_11.csproj.AssemblyReference.cache
+C:\Users\Kerim\source\repos\deneme_11\deneme_11\obj\Debug\deneme_11.csproj.CoreCompileInputs.cache
+C:\Users\Kerim\source\repos\deneme_11\deneme_11\obj\Debug\deneme_11.exe
+C:\Users\Kerim\source\repos\deneme_11\deneme_11\obj\Debug\deneme_11.pdb
